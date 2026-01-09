@@ -1,0 +1,17 @@
+ul{
+    /* disc ,circle,square */
+    list-style-type: square;
+background-color: rgba(135, 250, 187, 0.836);
+}
+ul il{
+background-color: rgba(21, 255, 0, 0.24);
+margin: 3px;
+}
+ol{
+    list-style-type:upper-roman ;
+    background-color: aquamarine;
+    /* list-style-image:url(); */
+}
+ol il{
+background-color: aqua;
+}
