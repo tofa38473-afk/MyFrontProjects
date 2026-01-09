@@ -1,0 +1,16 @@
+table.
+th.
+td{
+    border: 1px solid #ff8801;
+    border-collapse:collapse ;
+    padding: 4px;
+}
+table{
+    width: 70%;
+}
+th{
+    background-color: #00ff55;
+}
+th:hover{
+    background-color: rgb(255, 0, 13);
+}
