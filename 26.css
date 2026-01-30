@@ -1,0 +1,27 @@
+.box{
+    width: 300px; ;
+    height:150px ;
+    border:none;
+    background-color:lightgray;
+    box-shadow: 12px 12px 15px gray ;
+}
+p{
+    text-shadow: 5px 5px lightgray;
+}
+.text-box{   
+    width:100px ;
+    white-space:nowrap ;
+    background-color:lightgray ;
+    overflow: hidden;
+    overflow: clip;
+    text-overflow: ellipsis;
+}
+.box2{
+    width: 100px; ;
+    height: 200px; ;
+    background: yellow;
+/*transform: translate(20px 30px);*/
+/*transform: rotate(120deg);*/
+/*transform: scale(5);*/
+transform: skew(20deg 10deg);
+}
